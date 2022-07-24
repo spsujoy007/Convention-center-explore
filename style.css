@@ -1,0 +1,52 @@
+section {
+    margin-bottom: 150px;
+}
+
+.carouselSec {
+    margin-top: 40px;
+}
+
+/*================= price section start ========== */
+.price-section ul {
+    padding-left: 0rem;
+}
+
+.price-section ul li i {
+    background-color: #3122ff23;
+}
+
+.price-section ul li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.price-section .col-md-3.singlePrice {
+    padding: 22px 25px;
+}
+
+#pro-subs {
+    transform: translateY(-80px);
+    background-color: #3F87F5;
+    color: white;
+    border-radius: 20px;
+    max-width: 240px;
+    padding: 25px;
+    box-shadow: 0px 0px 83px -8px #3f87f5;
+}
+
+.packTitle.pb-5.text-center {
+    margin-bottom: 60px;
+}
+
+.mybtn {
+    background-color: #FDF4FA;
+    color: #0D6EFD;
+}
+
+/* hot badge button  */
+span#hotBadge {
+    display: block;
+    width: 50px;
+    border-radius: 25px;
+    margin: -38px 0px 36px auto;
+}
